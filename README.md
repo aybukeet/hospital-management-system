@@ -7,7 +7,7 @@ Kullanıcı dostu arayüzü, düzenli API yapısı ve tamamlayıcı test otomasy
 
 🧠 AI Destekli Geliştirme (Antigravity)
 
-Bu projeyi benim için değerli kılan noktalardan biri de geliştirme sürecinde Microsoft Antigravity kullanmış olmamdır.
+Bu projeyi benim için değerli kılan noktalardan biri de geliştirme sürecinde Antigravity kullanmış olmamdır.
 Antigravity, proje içerindeki birçok yapılandırma ve dosyalama adımını hızlandırarak geliştirme sürecini oldukça verimli hale getirdi.
 
 Özellikle:
@@ -63,39 +63,30 @@ Voiceover script üretimi
 🏥 Bölüm Yönetimi
 
 Bölüm ekleme / düzenleme / silme
-
 Doktorlara bölüm atama
 
 👨‍⚕️ Doktor Yönetimi
 
 Doktor ekleme
-
 Doktor profili
-
 İlgili bölüm bilgisi
-
 Doktora ait randevuların görüntülenmesi
 
 👤 Hasta Yönetimi
 
 Hasta kaydı
-
 Hasta detay sayfası
-
 Randevu geçmişi
 
 📅 Randevu Yönetimi
 
 Doktor & hasta seçilerek randevu oluşturma
-
 Tarih / saat seçimi
-
 Çakışma kontrol mekanizması
 
 📊 Dashboard
 
 Doktor / hasta / randevu istatistikleri
-
 Günlük randevu listesi
 
 📁 Proje Yapısı
@@ -116,7 +107,6 @@ rails s
 
 
 Varsayılan API adresi:
-
 http://localhost:3000/api/v1/
 
 2. Frontend (React + Vite)
@@ -126,7 +116,6 @@ npm run dev
 
 
 Uygulama:
-
 http://localhost:5173
 
 3. Cypress Testlerini Çalıştırma
@@ -139,8 +128,8 @@ Video çıktıları:
 frontend/cypress/videos/
 
 
-
 👩‍💻 Geliştirici
 
 Aybüke Turgun
+
 Software Engineering Student
