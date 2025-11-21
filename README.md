@@ -5,7 +5,7 @@ Full-Stack Uygulama • Ruby on Rails API + React Frontend • AI-Assisted Devel
 Bu proje; doktor, hasta, bölüm ve randevu yönetimini tek bir panelde toplayan modern bir Hastane Randevu ve Yönetim Sistemidir.
 Kullanıcı dostu arayüzü, düzenli API yapısı ve tamamlayıcı test otomasyonuyla, uçtan uca bir full-stack geliştirme çalışması sunmaktadır.
 
-🧠 AI Destekli Geliştirme (Microsoft Antigravity)
+🧠 AI Destekli Geliştirme (Antigravity)
 
 Bu projeyi benim için değerli kılan noktalardan biri de geliştirme sürecinde Microsoft Antigravity kullanmış olmamdır.
 Antigravity, proje içerindeki birçok yapılandırma ve dosyalama adımını hızlandırarak geliştirme sürecini oldukça verimli hale getirdi.
