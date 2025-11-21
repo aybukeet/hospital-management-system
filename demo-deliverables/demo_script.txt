@@ -1,0 +1,75 @@
+# Hospital Management System Demo Script
+
+Welcome to the Hospital Management System demonstration.
+
+This is a complete full-stack application built with Ruby on Rails and React.
+
+Let's begin by exploring the dashboard.
+
+Here we can see statistics for departments, doctors, patients, and appointments.
+
+Now navigating to the Departments section.
+
+Clicking Add Department to create a new department.
+
+Entering the department name: Emergency Medicine.
+
+Adding a description: 24/7 Emergency care services.
+
+Clicking Create to save the department.
+
+The new department has been successfully added to the system.
+
+Now let's navigate to the Doctors section.
+
+Clicking Add Doctor to register a new physician.
+
+Entering the doctor's name: Dr. Jane Smith.
+
+Selecting the department: Emergency Medicine.
+
+Adding the phone number: 555-1234.
+
+Clicking Create to save the doctor information.
+
+Dr. Jane Smith has been successfully added to the system.
+
+Next, let's navigate to the Patients section.
+
+Clicking Add Patient to register a new patient.
+
+Entering the patient name: John Doe.
+
+Setting the age to 35 years.
+
+Adding the contact number: 555-5678.
+
+Clicking Create to save the patient record.
+
+John Doe has been successfully registered in the system.
+
+Now let's book an appointment.
+
+Navigating to the Appointments section.
+
+Clicking Book Appointment to create a new appointment.
+
+Selecting the doctor: Dr. Jane Smith from Emergency Medicine.
+
+Selecting the patient: John Doe.
+
+Choosing the date and time for tomorrow.
+
+Entering the reason: Routine checkup and consultation.
+
+Clicking Book to confirm the appointment.
+
+The appointment has been successfully scheduled.
+
+Returning to the Dashboard to view updated statistics.
+
+All statistics have been updated to reflect the new entries.
+
+The demonstration is now complete.
+
+Thank you for watching this Hospital Management System demonstration.

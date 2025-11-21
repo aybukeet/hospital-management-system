@@ -1,0 +1,23 @@
+[
+    {
+        "action": "click",
+        "x": 200,
+        "y": 100,
+        "timestamp": 1700000001000,
+        "target": "BUTTON"
+    },
+    {
+        "action": "click",
+        "x": 300,
+        "y": 200,
+        "timestamp": 1700000003000,
+        "target": "A"
+    },
+    {
+        "action": "click",
+        "x": 400,
+        "y": 250,
+        "timestamp": 1700000005000,
+        "target": "INPUT"
+    }
+]

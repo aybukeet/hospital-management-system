@@ -1,0 +1,111 @@
+1
+00:00:00,000 --> 00:00:01,421
+Viewing the dashboard
+
+2
+00:00:01,421 --> 00:00:02,842
+Navigating to Departments
+
+3
+00:00:02,842 --> 00:00:04,264
+Viewing existing departments
+
+4
+00:00:04,264 --> 00:00:05,685
+Going to Doctors section
+
+5
+00:00:05,685 --> 00:00:07,107
+Clicking Add Doctor
+
+6
+00:00:07,107 --> 00:00:08,528
+Entering doctor name
+
+7
+00:00:08,528 --> 00:00:09,949
+Selecting department
+
+8
+00:00:09,949 --> 00:00:11,371
+Entering phone number
+
+9
+00:00:11,371 --> 00:00:12,792
+Creating doctor record
+
+10
+00:00:12,792 --> 00:00:14,214
+Doctor added successfully
+
+11
+00:00:14,214 --> 00:00:15,635
+Navigating to Patients
+
+12
+00:00:15,635 --> 00:00:17,057
+Clicking Add Patient
+
+13
+00:00:17,057 --> 00:00:18,478
+Entering patient name
+
+14
+00:00:18,478 --> 00:00:19,899
+Setting patient age
+
+15
+00:00:19,899 --> 00:00:21,321
+Entering phone number
+
+16
+00:00:21,321 --> 00:00:22,742
+Creating patient record
+
+17
+00:00:22,742 --> 00:00:24,164
+Patient registered successfully
+
+18
+00:00:24,164 --> 00:00:25,585
+Going to Appointments
+
+19
+00:00:25,585 --> 00:00:27,007
+Clicking Book Appointment
+
+20
+00:00:27,007 --> 00:00:28,428
+Selecting doctor
+
+21
+00:00:28,428 --> 00:00:29,849
+Selecting patient
+
+22
+00:00:29,849 --> 00:00:31,271
+Setting appointment date
+
+23
+00:00:31,271 --> 00:00:32,692
+Entering visit reason
+
+24
+00:00:32,692 --> 00:00:34,114
+Booking appointment
+
+25
+00:00:34,114 --> 00:00:35,535
+Appointment created successfully
+
+26
+00:00:35,535 --> 00:00:36,957
+Returning to Dashboard
+
+27
+00:00:36,957 --> 00:00:38,378
+Viewing updated statistics
+
+28
+00:00:38,378 --> 00:00:39,799
+Demo complete

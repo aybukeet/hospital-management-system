@@ -1,0 +1,57 @@
+Welcome to the Hospital Management System.
+
+Viewing the dashboard with system statistics.
+
+Navigating to the Departments page.
+
+Viewing existing departments in the system.
+
+Going to the Doctors section.
+
+Adding a new doctor to the system.
+
+Entering doctor information.
+
+Selecting the Cardiology department.
+
+Entering phone number.
+
+Creating the doctor record.
+
+Doctor successfully added to the system.
+
+Navigating to the Patients page.
+
+Adding a new patient.
+
+Entering patient name and details.
+
+Setting patient age to 35.
+
+Entering contact information.
+
+Creating the patient record.
+
+Patient successfully registered.
+
+Going to the Appointments section.
+
+Booking a new appointment.
+
+Selecting the doctor for the appointment.
+
+Selecting the patient.
+
+Setting the appointment date and time.
+
+Entering the reason for visit.
+
+Booking the appointment.
+
+Appointment successfully created.
+
+Returning to the dashboard.
+
+Viewing updated system statistics.
+
+Demo complete.

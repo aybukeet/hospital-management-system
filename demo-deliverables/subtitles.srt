@@ -1,0 +1,151 @@
+1
+00:00:00,000 --> 00:00:03,000
+# Hospital Management System Demo Script
+
+2
+00:00:03,000 --> 00:00:06,000
+Welcome to the Hospital Management System demonstration.
+
+3
+00:00:06,000 --> 00:00:09,000
+This is a complete full-stack application built with Ruby on Rails and React.
+
+4
+00:00:09,000 --> 00:00:12,000
+Let's begin by exploring the dashboard.
+
+5
+00:00:12,000 --> 00:00:15,000
+Here we can see statistics for departments, doctors, patients, and appointments.
+
+6
+00:00:15,000 --> 00:00:18,000
+Now navigating to the Departments section.
+
+7
+00:00:18,000 --> 00:00:21,000
+Clicking Add Department to create a new department.
+
+8
+00:00:21,000 --> 00:00:24,000
+Entering the department name: Emergency Medicine.
+
+9
+00:00:24,000 --> 00:00:27,000
+Adding a description: 24/7 Emergency care services.
+
+10
+00:00:27,000 --> 00:00:30,000
+Clicking Create to save the department.
+
+11
+00:00:30,000 --> 00:00:33,000
+The new department has been successfully added to the system.
+
+12
+00:00:33,000 --> 00:00:36,000
+Now let's navigate to the Doctors section.
+
+13
+00:00:36,000 --> 00:00:39,000
+Clicking Add Doctor to register a new physician.
+
+14
+00:00:39,000 --> 00:00:42,000
+Entering the doctor's name: Dr. Jane Smith.
+
+15
+00:00:42,000 --> 00:00:45,000
+Selecting the department: Emergency Medicine.
+
+16
+00:00:45,000 --> 00:00:48,000
+Adding the phone number: 555-1234.
+
+17
+00:00:48,000 --> 00:00:51,000
+Clicking Create to save the doctor information.
+
+18
+00:00:51,000 --> 00:00:54,000
+Dr. Jane Smith has been successfully added to the system.
+
+19
+00:00:54,000 --> 00:00:57,000
+Next, let's navigate to the Patients section.
+
+20
+00:00:57,000 --> 00:01:00,000
+Clicking Add Patient to register a new patient.
+
+21
+00:01:00,000 --> 00:01:03,000
+Entering the patient name: John Doe.
+
+22
+00:01:03,000 --> 00:01:06,000
+Setting the age to 35 years.
+
+23
+00:01:06,000 --> 00:01:09,000
+Adding the contact number: 555-5678.
+
+24
+00:01:09,000 --> 00:01:12,000
+Clicking Create to save the patient record.
+
+25
+00:01:12,000 --> 00:01:15,000
+John Doe has been successfully registered in the system.
+
+26
+00:01:15,000 --> 00:01:18,000
+Now let's book an appointment.
+
+27
+00:01:18,000 --> 00:01:21,000
+Navigating to the Appointments section.
+
+28
+00:01:21,000 --> 00:01:24,000
+Clicking Book Appointment to create a new appointment.
+
+29
+00:01:24,000 --> 00:01:27,000
+Selecting the doctor: Dr. Jane Smith from Emergency Medicine.
+
+30
+00:01:27,000 --> 00:01:30,000
+Selecting the patient: John Doe.
+
+31
+00:01:30,000 --> 00:01:33,000
+Choosing the date and time for tomorrow.
+
+32
+00:01:33,000 --> 00:01:36,000
+Entering the reason: Routine checkup and consultation.
+
+33
+00:01:36,000 --> 00:01:39,000
+Clicking Book to confirm the appointment.
+
+34
+00:01:39,000 --> 00:01:42,000
+The appointment has been successfully scheduled.
+
+35
+00:01:42,000 --> 00:01:45,000
+Returning to the Dashboard to view updated statistics.
+
+36
+00:01:45,000 --> 00:01:48,000
+All statistics have been updated to reflect the new entries.
+
+37
+00:01:48,000 --> 00:01:51,000
+The demonstration is now complete.
+
+38
+00:01:51,000 --> 00:01:54,000
+Thank you for watching this Hospital Management System demonstration.

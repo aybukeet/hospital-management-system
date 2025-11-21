@@ -1,0 +1,55 @@
+Viewing the dashboard
+
+Navigating to Departments
+
+Viewing existing departments
+
+Going to Doctors section
+
+Clicking Add Doctor
+
+Entering doctor name
+
+Selecting department
+
+Entering phone number
+
+Creating doctor record
+
+Doctor added successfully
+
+Navigating to Patients
+
+Clicking Add Patient
+
+Entering patient name
+
+Setting patient age
+
+Entering phone number
+
+Creating patient record
+
+Patient registered successfully
+
+Going to Appointments
+
+Clicking Book Appointment
+
+Selecting doctor
+
+Selecting patient
+
+Setting appointment date
+
+Entering visit reason
+
+Booking appointment
+
+Appointment created successfully
+
+Returning to Dashboard
+
+Viewing updated statistics
+
+Demo complete

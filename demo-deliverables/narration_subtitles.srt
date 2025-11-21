@@ -1,0 +1,115 @@
+1
+00:00:00,000 --> 00:00:02,000
+Welcome to the Hospital Management System.
+
+2
+00:00:02,000 --> 00:00:04,000
+Viewing the dashboard with system statistics.
+
+3
+00:00:04,000 --> 00:00:06,000
+Navigating to the Departments page.
+
+4
+00:00:06,000 --> 00:00:08,000
+Viewing existing departments in the system.
+
+5
+00:00:08,000 --> 00:00:10,000
+Going to the Doctors section.
+
+6
+00:00:10,000 --> 00:00:12,000
+Adding a new doctor to the system.
+
+7
+00:00:12,000 --> 00:00:14,000
+Entering doctor information.
+
+8
+00:00:14,000 --> 00:00:16,000
+Selecting the Cardiology department.
+
+9
+00:00:16,000 --> 00:00:18,000
+Entering phone number.
+
+10
+00:00:18,000 --> 00:00:20,000
+Creating the doctor record.
+
+11
+00:00:20,000 --> 00:00:22,000
+Doctor successfully added to the system.
+
+12
+00:00:22,000 --> 00:00:24,000
+Navigating to the Patients page.
+
+13
+00:00:24,000 --> 00:00:26,000
+Adding a new patient.
+
+14
+00:00:26,000 --> 00:00:28,000
+Entering patient name and details.
+
+15
+00:00:28,000 --> 00:00:30,000
+Setting patient age to 35.
+
+16
+00:00:30,000 --> 00:00:32,000
+Entering contact information.
+
+17
+00:00:32,000 --> 00:00:34,000
+Creating the patient record.
+
+18
+00:00:34,000 --> 00:00:36,000
+Patient successfully registered.
+
+19
+00:00:36,000 --> 00:00:38,000
+Going to the Appointments section.
+
+20
+00:00:38,000 --> 00:00:40,000
+Booking a new appointment.
+
+21
+00:00:40,000 --> 00:00:42,000
+Selecting the doctor for the appointment.
+
+22
+00:00:42,000 --> 00:00:44,000
+Selecting the patient.
+
+23
+00:00:44,000 --> 00:00:46,000
+Setting the appointment date and time.
+
+24
+00:00:46,000 --> 00:00:48,000
+Entering the reason for visit.
+
+25
+00:00:48,000 --> 00:00:50,000
+Booking the appointment.
+
+26
+00:00:50,000 --> 00:00:52,000
+Appointment successfully created.
+
+27
+00:00:52,000 --> 00:00:54,000
+Returning to the dashboard.
+
+28
+00:00:54,000 --> 00:00:56,000
+Viewing updated system statistics.
+
+29
+00:00:56,000 --> 00:00:58,000
+Demo complete.
